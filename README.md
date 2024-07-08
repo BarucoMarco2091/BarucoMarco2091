@@ -2,6 +2,7 @@
 
 - 🔭 Trabalho com Front-End
 - 🌱 Estudando HTML, CSS, Javascript e Angular
+- 🌱 Estudando Back-End no Senai
 - 📫 Contate-me no e-mail: marcobaruco2091@gmail.com
 - 😄 Pronouns: ele/dele
   
