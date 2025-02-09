@@ -29,6 +29,7 @@
   <img align="center" alt="BarucoMarco2091-Angular" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" />
   <img align="center" alt="BarucoMarco2091-Git" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
   <img align="center" alt="BarucoMarco2091-Github" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
+    <img align="center" alt="BarucoMarco2091-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />
 </div>
 
 ##
