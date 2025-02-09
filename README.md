@@ -26,7 +26,6 @@
   <img align="center" alt="BarucoMarco2091-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BarucoMarco2091-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" alt="BarucoMarco2091-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg?short_path=acc487e" />
-   <img align="center" alt="BarucoMarco2091-Angular" height="30" width="40" src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" />
 </div>
 
 ##
